@@ -11,7 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hellow Group 4");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
